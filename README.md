@@ -4,6 +4,8 @@ API RESTFull para usuario
 Diagrama de solución
 Descripción de la imagen
 
+![image](https://github.com/luchogb87/RetoSermaluc/assets/10896732/15e6120e-2ae7-4bc3-a700-18f1f43d8c63)
+
 
 
 Link para ver la base datos
