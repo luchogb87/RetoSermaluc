@@ -19,7 +19,7 @@ curl --location 'http://localhost:8080/api/users' \
 --header 'Content-Type: application/json' \
 --header 'Cookie: JSESSIONID=60B9C69B115B671EF9D459D8B3855305' \
 --data-raw '{
-    "name": "Luis Chivito",
+    "name": "Luis Ginocchio",
     "email": "luis@correo.org",
     "password": "Qwerty@123",
     "phones": [
